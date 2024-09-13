@@ -5,6 +5,8 @@ description: "Sample article showcasing basic Markdown syntax and formatting for
 tags: ["markdown", "css", "html", "sample"]
 ---
 
+![A test image](https://res.cloudinary.com/paulapplegate-com/ar_16:9,c_fill/c_limit,w_auto:breakpoints_200_1920_30_15/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl)
+
 This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.
 
 <!--more-->
